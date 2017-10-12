@@ -1,2 +1,2 @@
 # Park_Reservation_Project
-A command line interface registration page for National Park campsite reservations developed in Java with PostgreSQL database integration.
+CLI reservation page for national park campsites developed in Java with PostgreSQL database integration
